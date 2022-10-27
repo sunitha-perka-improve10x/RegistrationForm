@@ -54,7 +54,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="90sp"
             android:layout_weight="1"
-            android:backgroundTint="#A19999"
+            android:backgroundTint="#8F8787"
             android:text="Back" />
 
         <Button
