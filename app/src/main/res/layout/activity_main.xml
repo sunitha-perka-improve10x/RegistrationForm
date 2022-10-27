@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/personal_btn"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/signupInfo_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" SignUP Info" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PersonalActivity" />
+
+    <Button
+        android:id="@+id/professional_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="ProfessionalActivity" />
+</LinearLayout>
