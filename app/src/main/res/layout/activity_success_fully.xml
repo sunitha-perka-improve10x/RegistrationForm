@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_margin="16dp"
     android:orientation="vertical"
     android:padding="15dp"
     tools:context=".SuccessFullyActivity">
@@ -25,7 +26,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="You have successfully completed the process"
+            android:text="You have successfully completed  the process"
+            android:textColor="#231D1D"
             android:textSize="16sp" />
 
     </LinearLayout>
@@ -40,7 +42,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Email" />
+            android:text="Email"
+            android:textColor="#252323"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/email_txt"
@@ -59,7 +63,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="UserName" />
+            android:text="UserName"
+            android:textColor="#252323"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/user_name_txt"
@@ -78,7 +84,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="FirstName" />
+            android:text="FirstName"
+            android:textColor="#1E1B1B"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/firstname_txt1"
@@ -97,7 +105,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="LastName" />
+            android:text="LastName"
+            android:textColor="#1E1C1C"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/lastname_txt1"
@@ -117,7 +127,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="H.No/Apartment" />
+            android:text="H.No/Apartment"
+            android:textColor="#201C1C"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/H.no_txt"
@@ -136,7 +148,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Street Name" />
+            android:text="Street Name"
+            android:textColor="#0E0D0D"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/Streetname_txt"
@@ -155,7 +169,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="City" />
+            android:text="City"
+            android:textColor="#1B1818"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/city_txt"
@@ -174,7 +190,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="State" />
+            android:text="State"
+            android:textColor="#171414"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/statee_txt"
@@ -193,7 +211,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Country" />
+            android:text="Country"
+            android:textColor="#191515"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/country_txt"
@@ -212,7 +232,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Date Of Birth" />
+            android:text="Date Of Birth"
+            android:textColor="#292222" />
 
         <TextView
             android:id="@+id/date_of_birth_txt"
@@ -231,7 +252,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Place Of Birth" />
+            android:text="Place Of Birth"
+            android:textColor="#131010"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/place_of_birth_txt"
@@ -250,7 +273,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Current Company" />
+            android:text="Current Company"
+            android:textColor="#1B1616"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/currentcompany_txt"
@@ -269,7 +294,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Total Experience" />
+            android:text="Total Experience"
+            android:textColor="#231D1D"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/total_experience_txt"
@@ -288,7 +315,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Designation" />
+            android:text="Designation"
+            android:textColor="#191616"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/desig_nation_txt"

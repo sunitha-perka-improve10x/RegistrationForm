@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/drawable/checkbox round shape_background.xml" value="0.295" />
         <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/layout/activity_birth_details.xml" value="0.35833333333333334" />
         <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/layout/activity_main.xml" value="0.35833333333333334" />
         <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/layout/activity_personal_info.xml" value="0.35833333333333334" />
         <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/layout/activity_professional_info.xml" value="0.35833333333333334" />
         <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/layout/activity_sighn_up_info.xml" value="0.22" />
         <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/layout/activity_success_fully.xml" value="0.33" />
+        <entry key="..\:/Users/sunitha perka/AndroidStudioProjects/RegistrationForm/app/src/main/res/mipmap-anydpi-v26/checkbox round shape.xml" value="0.295" />
       </map>
     </option>
   </component>

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_margin="16dp"
     android:gravity="right"
     android:orientation="vertical"
     tools:context=".SighnUpInfoActivity">
@@ -16,14 +17,14 @@
         android:gravity="center"
         android:text="SignUp Info"
         android:textColor="#2C4687"
-        android:textSize="48sp" />
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="EmailAddress"
-        android:textSize="24sp" />
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/email_address_txt"
@@ -37,7 +38,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Password"
-        android:textSize="24sp" />
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/password_txt"
@@ -51,7 +52,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Comfirmpassword"
-        android:textSize="24sp" />
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/confirm_password_txt"
@@ -64,9 +65,10 @@
         android:id="@+id/next_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="250sp"
+        android:layout_marginLeft="260dp"
         android:gravity="right"
         android:text="Next"
+        android:textAllCaps="false"
         android:textSize="20sp" />
 
 </LinearLayout>

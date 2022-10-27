@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#36000000"
+    android:layout_margin="16dp"
     android:orientation="vertical"
     tools:context=".PersonalInfoActivity">
 
@@ -71,7 +71,8 @@
             android:layout_marginLeft="13sp"
             android:layout_marginRight="15sp"
             android:layout_weight="1"
-            android:text="back"
+            android:backgroundTint="#9F9898"
+            android:text="Back"
             android:textAllCaps="false" />
 
         <Button
@@ -81,7 +82,7 @@
             android:layout_marginLeft="16sp"
             android:layout_marginRight="15sp"
             android:layout_weight="1"
-            android:text="next"
+            android:text="Next"
             android:textAllCaps="false" />
 
     </LinearLayout>
